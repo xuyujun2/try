@@ -1,6 +1,6 @@
 <template>
     <div>
-      <mt-button type="primary" @click="handlerouter()">临时路由蒋颈夫</mt-button>
+      <mt-button type="primary" @click="handlerouter()">临时路由刘诗诗</mt-button>
     </div>
 </template>
 <script>
