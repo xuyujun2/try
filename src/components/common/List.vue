@@ -1,6 +1,6 @@
 <template>
     <div>
-      <mt-button type="primary" @click="handlerouter()">临时路由</mt-button>
+      <mt-button type="primary" @click="handlerouter()">临时路由更改</mt-button>
     </div>
 </template>
 <script>
