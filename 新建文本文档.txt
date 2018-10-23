@@ -1,0 +1,44 @@
+点击修改按钮进入修改页，在数据库找到该按钮id对应的数据，然后通过双向数据绑定，将数据
+渲染到修改页，因为修改页一进来就是有数据的
+
+
+
+
+
+dom：通过$获取的节点
+
+bom：location.href 浏览器
+
+
+
+
+https://api.awesomes.cn/site/home
+
+https://api.awesomes.cn/repo/latest
+
+
+
+
+
+早晨
+git checkout master
+git pull
+git checkout xyj-0717
+git merge master
+
+
+晚上
+git branch 查看分支
+
+git checkout xyj-0717
+
+git push
+
+xuyujun2
+
+
+
+不让改
+git add .
+git commit -m ""
+
